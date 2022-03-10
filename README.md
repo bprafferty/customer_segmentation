@@ -1,0 +1,1 @@
+Using unsupervised learning to cluster a dataset of customers. I used agglomerative clustering to determine which customers types of customers spent the most money at the store. This type of analysis is commonly done to maximize profits by targeting customers that fit the optimal profile with marketing campaigns.
